@@ -1,0 +1,31 @@
+.contacts {
+    width: 500px;
+    margin-left: 60px;
+}
+
+.contactItem {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 18px;
+}
+
+.contactName {
+    margin-right: 10px;
+}
+
+.contactNumber {
+    margin-right: 10px;
+}
+
+.buttonDelete {
+    display: block;
+        padding: 5px 15px;
+        cursor: pointer;
+        font-size: 12px;
+        color: gray;
+        background-color: lightgray;
+        border: transparent;
+        border-radius: 5px;
+}
